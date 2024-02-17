@@ -15,6 +15,6 @@ Execute the cells in the notebook sequentially to load the maze data, solve the 
 Optionally, you can customize the input maze or experiment with different parameters to observe variations in the solution.
 After running all the necessary cells, you should see the solution path visualized, along with relevant metrics such as turn count, traversal distance, and execution time.
 ### Sample Input
-For convenience, sample input images of mazes are provided in the repository (sample_mazes directory), along with their corresponding solutions.
+For convenience, sample input images of mazes are provided in the repository ([sample_mazes directory](https://github.com/Hema-Arularasi/Maze-Solver)), along with their corresponding solutions.
 ### Contributing
 If you'd like to contribute to Maze Solver, please fork the repository, make your changes, and submit a pull request. We welcome any contributions that improve the functionality, efficiency, or usability of the program.
