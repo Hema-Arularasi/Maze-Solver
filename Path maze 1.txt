@@ -1,0 +1,3 @@
+Turns: 11
+Traversal Distance: 66
+Turn Directions: ['Right', 'Left', 'Left', 'Right', 'Right', 'Left', 'Right', 'Left', 'Right', 'Left', 'Right']
